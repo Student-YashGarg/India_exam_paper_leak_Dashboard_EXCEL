@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="Images/Dashboard.png" alt="India Paper Leak Dashboard" width="1000"/>
+  <img src="Image/Dashboard.png" alt="India Paper Leak Dashboard" width="1000"/>
 </p>
 
 ---
