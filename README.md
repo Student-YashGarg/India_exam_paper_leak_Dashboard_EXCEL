@@ -1,4 +1,4 @@
-# 🇮🇳 India Exam Paper Leak Analysis (2014–2024)
+# India Exam Paper Leak Analysis (2014–2024)
 
 > ### 📷 Dashboard Preview
 
